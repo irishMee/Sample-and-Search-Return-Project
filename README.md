@@ -296,4 +296,4 @@
     2. Graphics Quality was Fantastic
     3. Frames per Second was default
 5. Below are the metrics that the rover was able to accomplish.
-    
+    ![alt text](https://github.com/irishMee/Sample-and-Search-Return-Project/blob/master/auto_passing_metrics.jpg)
