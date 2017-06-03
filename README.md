@@ -294,6 +294,6 @@
 4. NOTE: Simulator Settings
     1. Resolution was 1152 x 864 for Windows OS
     2. Graphics Quality was Fantastic
-    3. Frames per Second was 
+    3. Frames per Second was default
 5. Below are the metrics that the rover was able to accomplish.
     
